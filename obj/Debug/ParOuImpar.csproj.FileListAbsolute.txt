@@ -1,0 +1,7 @@
+C:\Projetos\Moura\Colecoes\Colecoes\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+C:\Projetos\Moura\Colecoes\Colecoes\ParOuImpar\bin\Debug\ParOuImpar.exe
+C:\Projetos\Moura\Colecoes\Colecoes\ParOuImpar\bin\Debug\ParOuImpar.pdb
+C:\Projetos\Moura\Colecoes\Colecoes\ParOuImpar\obj\Debug\ParOuImpar.csproj.AssemblyReference.cache
+C:\Projetos\Moura\Colecoes\Colecoes\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Projetos\Moura\Colecoes\Colecoes\ParOuImpar\obj\Debug\ParOuImpar.exe
+C:\Projetos\Moura\Colecoes\Colecoes\ParOuImpar\obj\Debug\ParOuImpar.pdb
